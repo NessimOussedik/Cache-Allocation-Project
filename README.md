@@ -4,3 +4,5 @@ limited resources out among several agents.
 
 Such problems do occur in various fields, be it economics, investments, advertising, production systems, and so on. 
 This project revolves around network operators allocating their caches to content providers.
+
+Created by Gabriel Guez & Nessim Oussedik with the help of Andrea Araldo.
